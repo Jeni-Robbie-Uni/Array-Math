@@ -1,2 +1,2 @@
 # Array-Math
-Takes in large numbers into array and calculates difference between them.
+Takes in two large positive integers from user into array and calculates difference between them.
